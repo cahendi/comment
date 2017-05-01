@@ -25,6 +25,6 @@ interval = setInterval(rpnewsticker, pause);
 var numposts = 5;
 var numchars = 0;
 </script>
-<script src="http://bloging-gampang.blogspot.com/feeds/posts/default?orderby=published&alt=json-in-script&callback=rpthumbnt"></script>
+<script src="http://www.community-java.com/feeds/posts/default?orderby=published&alt=json-in-script&callback=rpthumbnt"></script>
 </ul>
 <!-- /end --> 
